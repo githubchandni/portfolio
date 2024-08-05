@@ -117,7 +117,8 @@
   
   .section { padding-block: var(--section-padding); }
   
-  .w-100 { width: 100%; }
+  .w-100 { width: 100%;
+   }
   
   .h1,
   .h2,
@@ -301,8 +302,9 @@
   }
   
   .hero-banner .w-100 {
-    mask-image: url("../images/Blob.svg");
-    -webkit-mask-image: url("../images/Blog.svg");
+    /* mask-image: url("../images/Blob.svg");
+    -webkit-mask-image: url("../images/Blog.svg"); */
+    border-radius: 100%;
     mask-repeat: no-repeat;
     -webkit-mask-repeat: no-repeat;
     mask-position: center;
