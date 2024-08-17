@@ -36,4 +36,4 @@ You can view the live portfolio [here](https://your-portfolio-link.com).
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/portfolio-website.git
+   git clone https://github.com/githubchandni/portfolio.git
