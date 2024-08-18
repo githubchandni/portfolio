@@ -22,12 +22,6 @@ You can view the live portfolio [here](https://your-portfolio-link.com).
   - JavaScript (React.js)
   - Bootstrap/Tailwind CSS
 
-- **Backend:**
-  - Node.js
-  - Express.js
-
-- **Database:**
-  - MongoDB (optional, depending on whether there is a blog/contact form with storage)
 
 - **Hosting:**
   - Deployed using services like Netlify, Vercel, or Heroku.
