@@ -12,7 +12,7 @@ This is a personal portfolio website showcasing my work, skills, and experience 
 
 ## Demo
 
-You can view the live portfolio [here](https://your-portfolio-link.com).
+You can view the live portfolio [here](link).
 
 ## Tech Stack
 
